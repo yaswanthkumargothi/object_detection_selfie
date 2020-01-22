@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized</folder>
+	<filename>32.jpg</filename>
+	<path>E:\Selfies\resized\32.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>467</ymin>
+			<xmax>200</xmax>
+			<ymax>502</ymax>
+		</bndbox>
+	</object>
+</annotation>
